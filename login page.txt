@@ -1,0 +1,20 @@
+<html>
+<head>
+<title >header of site</title>
+<link rel="stylesheet" type="text/css" href="header.css" />
+<script src="https://kit.fontawesome.com/e224635b38.js" crossorigin="anonymous"></script>
+</head>
+ <body background="dumbbell.jpg"></body>
+<body><div class="nav">
+<ul>
+<li><a href="#"><i class="fas fa-home"></i>Home &nbsp;&nbsp; </a></li>
+<li><a href="#"><i class="fas fa-user"></i>Members &nbsp;&nbsp;</a></li>
+<li><a href="our gym.html"><i class="fas fa-images"></i> Gallery &nbsp;&nbsp;</a></li>
+<li><a href="#"><i class="fas fa-dumbbell"></i>Our Gym &nbsp;&nbsp;</a></li>
+<li><a href="#"><i class="fas fa-blog"></i>Contact &nbsp;&nbsp;</a></li>
+<li><a href="#"><i class="fas fa-address-book"></i>Login &nbsp;&nbsp;</a></li>
+</ul>
+</div>
+
+</body>
+</html>
